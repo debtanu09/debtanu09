@@ -11,6 +11,7 @@ Here are some ideas to get you started:-->
 
 
 
-- 🔭 I’m currently working on ... Physical Design in VLSI
+- 🔭 I’m currently working on ... Physical Design at TSMC
+- 👨‍🎓 Studied ... Integrated Circuits and Systems at IIT Bombay
 - 💬 Ask me about ... Physical Design or Computer Architecture
 - 📫 How to reach me: ... facebook - debtanu4real

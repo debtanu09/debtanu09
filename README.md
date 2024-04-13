@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 
 
 
-- 🔭 I’m currently ... Chip Design Engineer at TSMC
+- 🔭 I’m currently ... VLSI Engineer at TSMC
 - 👨‍🎓 Studied ... Integrated Circuits and Systems at IIT Bombay
 - 💬 Ask me about ... Physical Design or Computer Architecture
 - 📫 How to reach me: ... facebook - debtanu4real
